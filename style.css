@@ -1,0 +1,21 @@
+/*styles page*/
+.img {
+    width: 300;
+    height: auto;
+  }
+
+.header{
+    font-size: 60px;
+    font-family: lucidia console, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(165, 42, 42, 0.336);
+    color: brown;
+    text-align: center;
+    font-weight: 700;
+}
+.list {
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(0, 0, 255, 0.178);
+    text-align: center;
+    
+}
